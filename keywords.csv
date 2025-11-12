@@ -1,0 +1,12 @@
+
+lexeme,token
+int,KEYWORD
+float,KEYWORD
+if,KEYWORD
+else,KEYWORD
+for,KEYWORD
+while,KEYWORD
+return,KEYWORD
+char,KEYWORD
+double,KEYWORD
+void,KEYWORD
